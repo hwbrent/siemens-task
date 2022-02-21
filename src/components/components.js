@@ -51,7 +51,7 @@ export default function List() {
     const [displaySorted, setDisplaySorted] = useState(false);
 
     // list of objects, which each object being a food item. Their attributes are "name" and "useBy"
-    const [itemObjects, setItemObjects] = useState(exampleList);
+    const [itemObjects, setItemObjects] = useState([]);
     
     // state trackers for the form values for the name and use-by of the item being added
     const [newItemName, setNewItemName] = useState("");
