@@ -1,3 +1,10 @@
+You can download this code by cloning the repository, or by downloading and extracting the zip file.
+
+You should make sure you have the latest versions of Node.js and npm installed.
+
+Prior to running any of the below commands, you should run the below command:
+> `npm install`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
