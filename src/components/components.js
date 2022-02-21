@@ -112,7 +112,7 @@ export default function List() {
     return (
         <>
             <h1>Software Engineer Web Dev Internship - Interview Exercise</h1>
-            <h5>Type an item name along with a use-by date into the below form to add the item to the list!</h5>
+            <h5>(Un)check the boxes below to reveal the capability of this simple React web app!</h5>
 
             <label>
                 Show list:
